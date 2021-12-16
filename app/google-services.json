@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "114430987534",
+    "project_id": "nanny-9c5d7",
+    "storage_bucket": "nanny-9c5d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114430987534:android:a8b5a190ac7038c5219b5f",
+        "android_client_info": {
+          "package_name": "com.atria.nanny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114430987534-ej4p6en5tj3nh81ssm18j1pqvivrgnj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-4lJT1NSzj7aqSn-El601m9TZZX3-y2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114430987534-ej4p6en5tj3nh81ssm18j1pqvivrgnj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
