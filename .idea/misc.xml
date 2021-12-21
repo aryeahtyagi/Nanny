@@ -3,14 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.25743589743589745" />
         <entry key="..\:/Users/aryea/AndroidStudioProjects/Nanny/app/src/main/res/layout/activity_main.xml" value="0.176" />
         <entry key="..\:/Users/aryea/AndroidStudioProjects/Nanny/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/aryea/AndroidStudioProjects/Nanny/app/src/main/res/layout/nanny_videos.xml" value="0.264" />
         <entry key="..\:/Users/aryea/AndroidStudioProjects/Nanny/app/src/main/res/menu/bottom_nav.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/drawable/ic_chat.xml" value="0.1824074074074074" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.21693840579710144" />
+        <entry key="app/src/main/res/layout/card_layout_for_chat.xml" value="0.29084768563926816" />
+        <entry key="app/src/main/res/layout/fragment_chat.xml" value="0.11" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.21693840579710144" />
+        <entry key="app/src/main/res/layout/imagebetweenlistchat.xml" value="0.24635416666666668" />
+        <entry key="app/src/main/res/layout/nanny_videos.xml" value="0.21693840579710144" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

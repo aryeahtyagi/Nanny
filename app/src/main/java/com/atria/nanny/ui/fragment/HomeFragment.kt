@@ -5,6 +5,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.LinearLayout
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.atria.nanny.R
@@ -28,6 +29,7 @@ class HomeFragment : Fragment() {
         val videoRecyclerView = view.findViewById<RecyclerView>(R.id.videoRecyclerView)
         videoRecyclerView.layoutManager = LinearLayoutManager(context,LinearLayoutManager.VERTICAL,false)
         videoRecyclerView.adapter = HomeVideoAdapter()
+
     }
 
 
